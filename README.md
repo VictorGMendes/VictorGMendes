@@ -15,4 +15,4 @@
   <img align="center alt="html5" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white " \>
 </div>
 <br>
-Graduando em Análise e desenvolvimento de sistemas, apaixonado por tecnologia e aprender coisas novas.
+
